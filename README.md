@@ -1,47 +1,64 @@
 #Torneos de Starcraft
 
 
-Torneo 
+Torneo 1 - Torno Zeratul.
+ 
 Participantes 24.
-6 Grupos
-Calificán 2 por cada grupo.
 
+Reglas:
+
+* 6 Grupos
+* Calificán 2 por cada grupo.
+* Cada jugador participara en 3 combates en primera ronda.
+* Puede seleccionar Raza si lo considera
+* Mapas Oficiales(No Fastest) Lost Temple, Python, etc...
+* Se tienen 10 minutos de tolerancia.
+* En caso de que algo que levante una sospecha, un comité de 2-4 personas verificara la repetición
 
 Grupo A
-1 Diego Vente
-2 Andy Dennis
-3 Felipe
-4 Luis Kitikazis
+
+- Diego Vente
+- Andy Dennis
+- Felipe
+- Luis Kitikazis
 
 Grupo B
-5 Antonio Codoceo
-6 Raul Esteban
-7 Oscar David
-8 Gabriel Thon
+
+- Antonio Codoceo
+- Raul Esteban
+- Oscar David
+- Gabriel Thon
+
 
 Grupo C
-9 Victor Andres 
-10 Hemez Marca
-11 Kevin Rojas
-12 DanielCjuno
+
+- Victor Andres
+- Hemez Marca
+- Kevin Rojas
+- DanielCjuno
+
 
 Grupo D
-13 José Garcais
-14 Roger José
-15 Thely Raul del valle
-16 Sebastian Ignacio
+
+- José Garcais
+- Roger José
+- Thely Raul del valle
+- Sebastian Ignacio
+
 
 Grupo E
-17  Joaquin Bernardo
-18  Rodrigo Vilches
-19 Cristian Damian Farias
-20 Jonathan Mocoso
+
+- Joaquin Bernardo
+- Rodrigo Vilches
+- Cristian Damian Farias
+- Jonathan Mocoso
 
 Grupo F
-21 Patricio Burgos
-22 Gustavo LC 
-23 Akiles Baeza 
-24 José Luján 
+
+- Patricio Burgos
+- Gustavo LC 
+- Akiles Baeza 
+- José Luján 
 
 
 
