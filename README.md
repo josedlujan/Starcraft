@@ -63,7 +63,9 @@ Grupo F
 Partidas:
 
 Mex / Gua / Col / Per / Pan / Ecu: 7:00 p.m.
+
 Chi / Arg / Uru: 9:00 p.m.
+
 Bolivia: 8:00 p.m.
 
 Lunes 4 Diciembre  7:00 pm   DUELO 1 GRUPO A
